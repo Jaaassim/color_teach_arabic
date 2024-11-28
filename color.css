@@ -1,12 +1,11 @@
 button {
-    height: 45vw;
+    height: 21.5cqh;
     width: 45vw;
     float: left;
-    margin: 1.5vw;
+    margin: 1.8vw;
     border-radius: 100%;
     border: 0vw;
 }
-
 .red {
     background-color: red;
 }

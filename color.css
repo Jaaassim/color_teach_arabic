@@ -1,11 +1,24 @@
-button {
-    height: 21.5cqh;
-    width: 45vw;
-    float: left;
-    margin: 1.8vw;
-    border-radius: 100%;
-    border: 0vw;
-}
+@media (orientation: landscape) {
+
+    button {
+        height: 45vw;
+        width: 21.5cqh;
+        float: left;
+        margin: 1.8vw;
+        border-radius: 100%;
+        border: 0vw;
+    }  }
+  @media (orientation: portrait) {
+
+    button {
+        height: 21.5cqh;
+        width: 45vw;
+        float: left;
+        margin: 1.8vw;
+        border-radius: 100%;
+        border: 0vw;
+    }  }
+
 .red {
     background-color: red;
 }
